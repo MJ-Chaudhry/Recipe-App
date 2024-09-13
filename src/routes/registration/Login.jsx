@@ -6,6 +6,7 @@ import Background from "../../assets/signup/background.jpg";
 import { Google, Apple, Facebook, ArrowForward } from "@mui/icons-material";
 import { HashLink } from "react-router-hash-link";
 
+/** Login page component */
 const Login = () => {
     return (
         <div className="signup-window">
